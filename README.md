@@ -21,7 +21,6 @@ This project predicts Airbnb listing prices using Machine Learning. The dataset 
 
 ## Files
 
-* `train.csv` – Dataset
 * `project.ipynb` – ML code
 * `report.docx` – Project report
 * `README.md` – Project description
