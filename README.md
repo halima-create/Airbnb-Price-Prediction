@@ -29,4 +29,3 @@ This project predicts Airbnb listing prices using Machine Learning. The dataset 
 
 Built a machine learning model to predict Airbnb prices based on listing features.
 
-t
